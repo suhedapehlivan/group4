@@ -6,6 +6,3 @@ public class g4 {
         System.out.println("bye");
         System.out.println("oke");
         System.out.println("bb");
-
-    }
-}
